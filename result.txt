@@ -1,0 +1,16 @@
+CollegeID,CollegeName,CourseType,City,Fees,PinCode
+555,rfv,678,mumbai,998,5678
+111,qaz,123,mumbai,98788,98
+777,tgb,234,mumbai,67890,987
+4445,kjhg,8765,mumbai,98765,98
+555,eddc,34567,mumbai,56789,909
+222,rfv,765,mumbai,234567,2345
+222,3456,453,mumbai,2345,987
+339,edc,654,mumbai,5334,3434545
+555,iuiy,87654,mumbai,98765,34567
+666,rfv,3456,mumbai,34567,2345
+777,rfv,45678,mumbai,345678,987
+111,frrr,23232,mumbai,3435435,778
+111,frrr,23232,mumbai,3435435,778
+111,frrr,23232,mumbai,3435435,778
+666,sjcem,48688,mumbai,3455,0955
